@@ -10,16 +10,9 @@ def pausa():
 
 # Areas de figuras ------------------------------    
 def areaTriangulo(b, h):
-    return b * h / 2
+# ...
 
-def areaCuadrado(l):
-    return l ** 2
-
-def areaRectangulo(l, h):
-    return l * h
-
-def areaCirculo(r):
-    return math.pi * r ** 2
+# ....
 
 # Area de un triángulo ------------------------------
 
@@ -35,7 +28,7 @@ def calcularAreaTriangulo():
     print(f"Area del Triangulo = {area:5.2f}")
     pausa()
 
-
+# ...
 # Menu principal ----------------------------------------------------------
 
 def menu():
