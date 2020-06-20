@@ -1,5 +1,4 @@
 # Areas de Figs Geométricas ---------------------------
-
 import os
 import math
 
@@ -10,7 +9,6 @@ def pausa():
     input()
 
 # Areas de figuras ------------------------------    
-
 def areaTriangulo(b, h):
     return b * h / 2
 
