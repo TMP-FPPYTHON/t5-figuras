@@ -59,4 +59,4 @@ if __name__ == "__main__":
         elif opcion == "4":
             pass
     os.system("clear")
-    print("Fin de la calculadora...")
+    print("Fin de la calculadora de areas geometricas...")
