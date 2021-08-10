@@ -10,7 +10,15 @@ def pausa():
 
 # Areas de figuras ------------------------------    
 def areaTriangulo(b, h):
-# ...
+
+def areaCuadrado(l):
+    
+
+def areaRectangulo(l, h):
+    
+
+def areaCirculo(r):
+    
 
 # ....
 
@@ -43,6 +51,8 @@ def menu():
     opcion = input("Opcion->")
 
     return opcion
+
+# Reestructurar esta sección utilice la función main() ------------
 
 if __name__ == "__main__":
 
